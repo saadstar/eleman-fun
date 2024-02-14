@@ -13,7 +13,7 @@ const SubContact = () => {
           </div>
           <div>
             <p>البريد الالكتروني</p>
-            <span>zk@gmail.com</span>
+            <span>support@eleaman.com</span>
           </div>
           <div>
             <p>العنوان</p>
